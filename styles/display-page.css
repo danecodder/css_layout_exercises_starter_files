@@ -8,6 +8,14 @@ main {
   font-size: 0;
 }
 
+.container-one{
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .inner {
   height: 200px;
   width: 50%;
@@ -22,3 +30,4 @@ main {
 .inner-two{
 	background-color: blue;
 }
+
