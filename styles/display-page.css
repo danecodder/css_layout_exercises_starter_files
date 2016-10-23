@@ -9,8 +9,16 @@ main {
 }
 
 .inner {
-  height: 100px;
-  width: 25%;
+  height: 200px;
+  width: 50%;
   display: inline-block;
   font-size: 0;
+}
+
+.inner-one{
+	background-color: green;
+}
+
+.inner-two{
+	background-color: blue;
 }
