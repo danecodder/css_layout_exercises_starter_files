@@ -25,9 +25,35 @@ main {
 
 .inner-one{
 	background-color: green;
+	border: 1px solid black;
 }
 
 .inner-two{
 	background-color: blue;
+	border: 1px solid black;
+}
+
+.inner-three{
+	height: 300px;
+	width: 33%;
+	display: inline-block;
+	background-color: gray;
+	border: 1px solid black;
+}
+
+.inner-four{
+	height: 300px;
+	width: 33%;
+	display: inline-block;
+	background-color: black;
+	border: 1px solid black;
+}
+
+.inner-five{
+	height: 300px;
+	width: 33%;
+	display: inline-block;
+	background-color: orange;
+	border: 1px solid black;
 }
 
